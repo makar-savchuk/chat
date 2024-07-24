@@ -1,0 +1,17 @@
+{
+  "name": "@databerry/chat-bubble",
+  "version": "1.0.142",
+  "description": "Chaindesk Chat Bubble Widget",
+  "main": "dist/chatbox/legacy.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gmpetrov/databerry.git"
+  },
+  "author": "Georges Petrov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gmpetrov/databerry/issues"
+  },
+  "homepage": "https://github.com/gmpetrov/databerry#readme"
+}
